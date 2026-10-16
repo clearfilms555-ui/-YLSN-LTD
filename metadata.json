@@ -1,0 +1,6 @@
+{
+  "name": "YLSN LTD — Professional Sound Systems",
+  "description": "Professional sound systems, audio equipment sales, event rentals, installations, maintenance, and technical support. Kigali, Rwanda. Official hotline: +250 783 008 214.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

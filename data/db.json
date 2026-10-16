@@ -1,0 +1,628 @@
+{
+  "settings": {
+    "companyName": "YLSN LTD",
+    "phone": "+250 783 008 214",
+    "whatsappNumber": "250783008214",
+    "email": "",
+    "physicalAddress": "",
+    "city": "Kigali",
+    "country": "Rwanda",
+    "slogan": "Better Sound • Better Events • Better Together",
+    "announcementText": "🔥 Special Promotion: Free acoustic calibration on all sound system installations this month! Call +250 783 008 214",
+    "isAnnouncementActive": true,
+    "workingHours": "Monday - Saturday: 8:00 AM - 8:00 PM | 24/7 Event Audio Emergency Hotline",
+    "logoUrl": "/ylsn_logo.jpg",
+    "emergencyHotline": "+250 783 008 214"
+  },
+  "categories": [
+    {
+      "id": "speakers",
+      "name": "Speakers & Subwoofers",
+      "slug": "speakers-subwoofers",
+      "description": "Active PA tops, line arrays, stage monitors, and high-SPL concert subwoofers.",
+      "iconName": "Speaker"
+    },
+    {
+      "id": "mixers",
+      "name": "Mixers & Consoles",
+      "slug": "mixers-consoles",
+      "description": "Professional digital mixing desks, stage boxes, DSP processing, and analog audio consoles.",
+      "iconName": "Sliders"
+    },
+    {
+      "id": "amplifiers",
+      "name": "Power Amplifiers",
+      "slug": "power-amplifiers",
+      "description": "Touring-grade power amps, multichannel DSP amplifiers, and installation processing.",
+      "iconName": "Zap"
+    },
+    {
+      "id": "microphones",
+      "name": "Microphones & Wireless",
+      "slug": "microphones-wireless",
+      "description": "UHF wireless vocal systems, dynamic vocal & instrument mics, podium goosenecks.",
+      "iconName": "Mic"
+    },
+    {
+      "id": "dj_equipment",
+      "name": "DJ Gear & Players",
+      "slug": "dj-equipment",
+      "description": "Club-standard multi-players, 4-channel DJ mixers, all-in-one standalone consoles.",
+      "iconName": "Disc"
+    },
+    {
+      "id": "cables_connectors",
+      "name": "Cables & Connectors",
+      "slug": "cables-connectors",
+      "description": "Heavy-duty Neutrik Speakon, Mogami XLRs, multicore audio stage boxes, snakes & patch cables.",
+      "iconName": "Cpu"
+    },
+    {
+      "id": "stands_rigging",
+      "name": "Stands & Rigging",
+      "slug": "stands-rigging",
+      "description": "Heavy-load speaker tripods, heavy base boom mic stands, crank truss towers, distance rods.",
+      "iconName": "Layers"
+    },
+    {
+      "id": "accessories_tools",
+      "name": "Tools & Accessories",
+      "slug": "accessories-tools",
+      "description": "Rack power conditioners, audio analyzers, cable testers, flight road cases, line testers.",
+      "iconName": "Wrench"
+    }
+  ],
+  "products": [
+    {
+      "id": "ylsn-spk-001",
+      "name": "JBL SRX828SP Dual 18\" Self-Powered Subwoofer System",
+      "category": "speakers",
+      "brand": "JBL Professional",
+      "priceRwf": 3850000,
+      "priceUsd": 2850,
+      "stock": 5,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 150000,
+      "featured": true,
+      "rating": 4.9,
+      "imageUrl": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Dual 18\" active subwoofer with 2000W Crown DriveCore amplification and network control.",
+      "description": "The JBL SRX828SP is a dual 18\" subwoofer system engineered for live touring, corporate events, clubs, and worship centers. Equipped with differential drive transducers, integrated Crown amplification delivering 2000W peak power, and full HiQnet network DSP control.",
+      "specifications": {
+        "Frequency Response": "29 Hz - 150 Hz",
+        "Maximum Peak SPL": "141 dB SPL",
+        "System Power Rating": "2000W Peak / 1500W Continuous",
+        "Transducers": "2 x 18\" Differential Drive Woofers",
+        "Inputs / Outputs": "Neutrik XLR combo in, XLR link out, Ethercon RJ45 network",
+        "Weight": "65.9 kg (145 lbs)",
+        "Dimensions": "574 mm x 1205 mm x 681 mm"
+      },
+      "tags": [
+        "Subwoofer",
+        "JBL",
+        "Active",
+        "Concert Sound",
+        "Live Audio"
+      ]
+    },
+    {
+      "id": "ylsn-spk-002",
+      "name": "JBL PRX915 Powered 15\" 2-Way Main/Monitor Loudspeaker",
+      "category": "speakers",
+      "brand": "JBL Professional",
+      "priceRwf": 1980000,
+      "priceUsd": 1450,
+      "stock": 12,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 75000,
+      "featured": true,
+      "rating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Class D 2000W 15\" powered speaker with Bluetooth BLE app control and DBX DriveRack DSP.",
+      "description": "Designed for touring sound engineers, live bands, and event venues. Features a next-gen 15\" ferrite woofer, 1.5\" annular polymer diaphragm compression driver, full color LCD, and automated feedback suppression.",
+      "specifications": {
+        "Frequency Response": "48 Hz - 19 kHz",
+        "Max SPL": "133 dB",
+        "Amplifier Power": "2000W Peak / 1000W RMS",
+        "Dispersion": "90° x 50°",
+        "DSP Features": "dbx DriveRack Feedback Suppression, 180ms delay, parametric EQ",
+        "Suspension": "M10 rigging points & dual pole mount sockets",
+        "Weight": "24.1 kg"
+      },
+      "tags": [
+        "Powered Speaker",
+        "JBL",
+        "Stage Monitor",
+        "FOH"
+      ]
+    },
+    {
+      "id": "ylsn-spk-003",
+      "name": "RCF EVOX 12 Active Two-Way Compact Array System",
+      "category": "speakers",
+      "brand": "RCF Audio",
+      "priceRwf": 3200000,
+      "priceUsd": 2380,
+      "stock": 4,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 130000,
+      "featured": true,
+      "rating": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "1400W peak active column PA system with 15\" subwoofer and 8 x 4\" full-range neodymium drivers.",
+      "description": "The EVOX 12 is the most powerful line-source system in its class. Provides high fidelity speech and music playback with unmatched dynamic range and rapid setup time for VIP corporate events and weddings.",
+      "specifications": {
+        "Max SPL": "130 dB",
+        "Power": "1400W Peak / 700W RMS",
+        "Configuration": "15\" woofer with 8 x 4\" ultra-compact drivers",
+        "Horizontal Coverage": "90° wide dispersion",
+        "Portability": "Integrated wheels and telescopic handle",
+        "Weight": "36.4 kg"
+      },
+      "tags": [
+        "Column PA",
+        "RCF",
+        "Wedding Audio",
+        "Corporate"
+      ]
+    },
+    {
+      "id": "ylsn-mix-001",
+      "name": "Behringer X32 40-Channel Digital Mixing Console",
+      "category": "mixers",
+      "brand": "Behringer / Midas",
+      "priceRwf": 3950000,
+      "priceUsd": 2900,
+      "stock": 5,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 160000,
+      "featured": true,
+      "rating": 4.9,
+      "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Flagship 40-input, 25-bus digital mixing console with 32 Midas-designed programmable preamps.",
+      "description": "The industry benchmark for live sound mixing. 25 motorized 100mm faders, channel scribble strips, 7\" day-view TFT screen, 32x32 USB audio interface, and remote control via iPad and Android tablet.",
+      "specifications": {
+        "Input Channels": "40 total inputs",
+        "Preamps": "32 Midas-designed XLR mic preamps",
+        "Faders": "25 Motorized 100 mm faders",
+        "Buses": "16 Mix Buses, 6 Matrix Buses, 8 DCA groups",
+        "Networking": "AES50 Dual ports (up to 96 channels of audio over Cat5)",
+        "Display": "7\" 800x480 Color Graphic TFT"
+      },
+      "tags": [
+        "Digital Mixer",
+        "Behringer X32",
+        "Live Sound",
+        "Church Audio"
+      ]
+    },
+    {
+      "id": "ylsn-mix-002",
+      "name": "Allen & Heath SQ-6 48-Channel Digital Audio Mixer",
+      "category": "mixers",
+      "brand": "Allen & Heath",
+      "priceRwf": 6450000,
+      "priceUsd": 4750,
+      "stock": 3,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 220000,
+      "featured": true,
+      "rating": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "96kHz XCVI FPGA processing engine with 24 local preamps, 25 faders, and ultra-low 0.7ms latency.",
+      "description": "High-end touring console offering class-leading 96kHz audio quality. Features 12 stereo mixes, DEEP processing architecture, 8 stereo FX engines with dedicated returns, and intuitive capacitive touch screen.",
+      "specifications": {
+        "FPGA Engine": "96kHz XCVI Core (<0.7ms latency)",
+        "Local I/O": "24 onboard preamps + 16 XLR outputs",
+        "Faders": "24 + 1 Master Motorized Faders across 6 layers",
+        "Display": "7\" Capacitive Touchscreen with illuminating rotary",
+        "Recording": "SQ-Drive direct to USB drive & 32x32 USB interface"
+      },
+      "tags": [
+        "Allen & Heath",
+        "SQ-6",
+        "96kHz",
+        "Touring Mixer",
+        "Pro Audio"
+      ]
+    },
+    {
+      "id": "ylsn-amp-001",
+      "name": "Crown I-Tech 4x3500HD 4-Channel Power Amplifier",
+      "category": "amplifiers",
+      "brand": "Crown by HARMAN",
+      "priceRwf": 7800000,
+      "priceUsd": 5750,
+      "stock": 2,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 250000,
+      "featured": true,
+      "rating": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Four-channel 4000W per channel touring amplifier with OMNIDRIVEHD DSP and DriveCore technology.",
+      "description": "Crown’s flagship I-Tech 4x3500HD provides pristine audio purity and bulletproof reliability for stadium tours and large festival sound systems. Features BSS OMNIDRIVEHD processing with LevelMAX limiters and color touchscreen.",
+      "specifications": {
+        "Channels": "4 discrete output channels",
+        "Power Output": "4 x 4000W at 4 Ohms / 4 x 2000W at 8 Ohms",
+        "DSP": "BSS OMNIDRIVEHD DSP with linear phase FIR filters",
+        "Inputs": "Analog XLR, AES3 digital, CobraNet and Dante audio routing",
+        "Universal Power Supply": "Power Factor Correction (PFC) 100V-240V",
+        "Weight": "13.2 kg (2U rack space)"
+      },
+      "tags": [
+        "Crown",
+        "Power Amp",
+        "DSP",
+        "High Power",
+        "Line Array Amp"
+      ]
+    },
+    {
+      "id": "ylsn-mic-001",
+      "name": "Shure SLXD24D/SM58 Dual Wireless Vocal System",
+      "category": "microphones",
+      "brand": "Shure",
+      "priceRwf": 2450000,
+      "priceUsd": 1800,
+      "stock": 8,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 80000,
+      "featured": true,
+      "rating": 4.9,
+      "imageUrl": "https://images.unsplash.com/photo-1520523839898-507125cd53c1?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Dual wireless receiver system with 2 legendary SM58 handheld transmitters in 24-bit digital clarity.",
+      "description": "Delivers transparent 24-bit digital audio and rock-solid RF performance. 44 MHz tuning bandwidth, 32 available channels per frequency band, easy transmitter sync via IR, and up to 8 hours battery runtime.",
+      "specifications": {
+        "Audio Quality": "24-bit / 48 kHz digital conversion",
+        "Dynamic Range": "120 dB",
+        "RF Bandwidth": "44 MHz tuning range",
+        "Operating Range": "100 meters (330 ft) line-of-sight",
+        "Transmitters": "2 x SLXD2 handhelds with legendary SM58 capsules",
+        "Outputs": "Individual balanced XLR and 6.35mm outputs"
+      },
+      "tags": [
+        "Shure",
+        "Wireless Mic",
+        "SM58",
+        "Dual Vocal",
+        "Church Mic"
+      ]
+    },
+    {
+      "id": "ylsn-dj-001",
+      "name": "Pioneer DJ XDJ-XZ All-in-One Professional DJ System",
+      "category": "dj_equipment",
+      "brand": "Pioneer DJ / AlphaTheta",
+      "priceRwf": 4600000,
+      "priceUsd": 3400,
+      "stock": 3,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 180000,
+      "featured": true,
+      "rating": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1571266028243-3716f02d2d2e?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "4-channel standalone DJ system with club-standard NXS2 layout, 7\" touch screen, and full jog wheels.",
+      "description": "The industry-standard all-in-one DJ system for mobile DJs, festivals, and nightclubs. Features full-size CDJ-2000NXS2 style jog wheels with customizable center displays, 14 Beat FX, 6 Sound Color FX, and dual microphone inputs with feedback reducer.",
+      "specifications": {
+        "Channels": "4 channels (2 standalone + 2 external line/phono)",
+        "Jog Wheels": "206 mm full-size mechanical jog wheels with Color On-Jog Display",
+        "Screen": "7\" full-color LCD touchscreen",
+        "Audio Processing": "64-bit digital signal processor with 3-band Master EQ",
+        "Connectivity": "3 USB ports, 2 Mic inputs (XLR & 1/4\" TRS)",
+        "Dimensions": "878 mm x 466.1 mm x 118.4 mm (13 kg)"
+      },
+      "tags": [
+        "Pioneer DJ",
+        "XDJ-XZ",
+        "DJ Console",
+        "Club Standard",
+        "Standalone"
+      ]
+    },
+    {
+      "id": "ylsn-cbl-001",
+      "name": "Neutrik NL4FX Speakon to Speakon 4-Core Stage Cable (20m)",
+      "category": "cables_connectors",
+      "brand": "Neutrik Pro",
+      "priceRwf": 145000,
+      "priceUsd": 110,
+      "stock": 45,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 10000,
+      "featured": false,
+      "rating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "High-current 4x2.5mm² oxygen-free copper speaker cable with genuine Neutrik NL4FX connectors.",
+      "description": "Heavy-duty touring speaker cable designed for zero loss transmission to subwoofers and line array elements. Road-proof ultra-flexible rubber jacket resistant to cuts, oil, and outdoor weather.",
+      "specifications": {
+        "Length": "20 Meters (65.6 ft)",
+        "Conductor": "4 x 2.5 mm² OFC Pure Copper",
+        "Connectors": "Genuine Neutrik NL4FX 4-Pole Quick-Lock",
+        "Jacket": "Ultra-flex matte black neoprene outer rubber",
+        "Rating": "40A RMS continuous current"
+      },
+      "tags": [
+        "Cables",
+        "Speakon",
+        "Neutrik",
+        "Stage Audio",
+        "Subwoofer Cable"
+      ]
+    },
+    {
+      "id": "ylsn-cbl-002",
+      "name": "Mogami 2534 Quad High-Definition Balanced XLR Cable (10m)",
+      "category": "cables_connectors",
+      "brand": "Mogami Japan",
+      "priceRwf": 95000,
+      "priceUsd": 72,
+      "stock": 50,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 8000,
+      "featured": false,
+      "rating": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Neglex quad high-definition microphone cable with gold-plated Neutrik NC3 black connectors.",
+      "description": "The world standard for silent, interference-free audio transmission. 4-conductor quad configuration cancels out electro-magnetic hum caused by stage lighting trusses and video LED walls.",
+      "specifications": {
+        "Length": "10 Meters",
+        "Shield": "100% Spiral Bare Copper Shield",
+        "Connectors": "Neutrik Gold Contact Black Metal Shell XLR",
+        "Noise Rejection": "97% superior hum cancellation compared to standard 2-core"
+      },
+      "tags": [
+        "XLR Cable",
+        "Mogami",
+        "Microphone",
+        "Zero Noise"
+      ]
+    },
+    {
+      "id": "ylsn-cbl-003",
+      "name": "Stage Snake Multicore Box 24 Input / 8 Return (30m)",
+      "category": "cables_connectors",
+      "brand": "ProStage Pro",
+      "priceRwf": 1150000,
+      "priceUsd": 850,
+      "stock": 7,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 45000,
+      "featured": false,
+      "rating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Heavy-gauge steel stage box with 24 XLR sends and 8 XLR returns on a 30-meter multicore loom.",
+      "description": "Heavy duty steel stage junction box with strain relief and wire mesh grip. Features numbered channels, shielded pairs, and heavy-duty nylon jacket for stage reliability.",
+      "specifications": {
+        "Channels": "24 Inputs (XLR Female) + 8 Returns (XLR Male)",
+        "Length": "30 Meters (100 ft)",
+        "Box": "Heavy gauge powder-coated black steel",
+        "Shielding": "Individually shielded & jacketed wire pairs"
+      },
+      "tags": [
+        "Stage Box",
+        "Multicore",
+        "Snake Cable",
+        "Live Production"
+      ]
+    },
+    {
+      "id": "ylsn-stn-001",
+      "name": "K&M 21436 Heavy-Duty Aluminum Speaker Stand (Pair with Bag)",
+      "category": "stands_rigging",
+      "brand": "König & Meyer",
+      "priceRwf": 280000,
+      "priceUsd": 210,
+      "stock": 18,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 20000,
+      "featured": false,
+      "rating": 4.9,
+      "imageUrl": "https://images.unsplash.com/photo-1519744346361-7a61d67e786b?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Professional German-engineered speaker tripod with safety push-button pin and 50kg load capacity.",
+      "description": "Ultra stable high-grade aluminum stands for heavy PA tops and point source cabinets. Adjustable from 1.3m to 2.15m height with secure locking screw and safety push-button lock pin.",
+      "specifications": {
+        "Max Load": "50 kg (110 lbs) per stand",
+        "Height Range": "1,320 to 2,140 mm",
+        "Tube Diameter": "35 mm standard speaker flange",
+        "Material": "High-tensile aluminum with scratch-resistant black finish",
+        "Includes": "Pair of stands + padded dual carrying bag"
+      },
+      "tags": [
+        "Speaker Stand",
+        "K&M",
+        "Heavy Duty",
+        "Tripod"
+      ]
+    },
+    {
+      "id": "ylsn-acc-001",
+      "name": "Furman M-10Lx E 10A Rackmount Power Conditioner with Lights",
+      "category": "accessories_tools",
+      "brand": "Furman Sound",
+      "priceRwf": 420000,
+      "priceUsd": 310,
+      "stock": 10,
+      "availability": "in_stock",
+      "isRentalAvailable": false,
+      "featured": false,
+      "rating": 4.9,
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "10-outlet rack power filter and spike surge protector with dual pull-out LED stage illuminators.",
+      "description": "Protects expensive audio processors, mixers, and amplifiers from destructive voltage spikes, surges, and electrical hum ground loops caused by venue power.",
+      "specifications": {
+        "Current Rating": "10 Amperes",
+        "Outlets": "10 rear outlets + 1 convenient front convenience outlet",
+        "Lighting": "Two retractable slide-out LED lights with dimmer switch",
+        "Protection": "AC surge and transient spike suppressor with RFI/EMI noise filtering"
+      },
+      "tags": [
+        "Furman",
+        "Power Conditioner",
+        "Rack Gear",
+        "Surge Protection"
+      ]
+    },
+    {
+      "id": "ylsn-acc-002",
+      "name": "dbx DriveRack PA2 Complete Loudspeaker Management System",
+      "category": "accessories_tools",
+      "brand": "dbx by HARMAN",
+      "priceRwf": 1100000,
+      "priceUsd": 815,
+      "stock": 6,
+      "availability": "in_stock",
+      "isRentalAvailable": true,
+      "rentalPricePerDay": 40000,
+      "featured": true,
+      "rating": 4.9,
+      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=900&q=80",
+      "shortDescription": "Loudspeaker management system with AutoEQ, AFS Advanced Feedback Suppression, and Wi-Fi control.",
+      "description": "The brain of professional sound systems. Provides crossover filtration, graphic & 8-band parametric EQ, subharmonic synthesis, peak stop limiters, and automated acoustic room calibration using mobile app.",
+      "specifications": {
+        "Inputs": "2 balanced female XLR",
+        "Outputs": "6 balanced male XLR (Low, Mid, High for Left & Right)",
+        "Processing": "Full 24-bit AD/DA conversion, dbx Type IV conversion",
+        "Network": "RJ45 Ethernet for iOS/Android/Mac/PC control over Wi-Fi"
+      },
+      "tags": [
+        "dbx",
+        "DriveRack",
+        "Speaker Management",
+        "DSP",
+        "Crossover"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1792148063022",
+      "orderNumber": "YLSN-ORD-7637",
+      "customerName": "Test Client",
+      "customerPhone": "+250 788 111 222",
+      "customerEmail": "",
+      "deliveryType": "pickup",
+      "deliveryAddress": "",
+      "paymentMethod": "pay_on_delivery",
+      "paymentStatus": "pending",
+      "orderStatus": "confirmed",
+      "items": [
+        {
+          "productId": "ylsn-spk-001",
+          "name": "JBL SRX828SP",
+          "priceRwf": 3850000,
+          "quantity": 1
+        }
+      ],
+      "subtotalRwf": 3850000,
+      "deliveryFeeRwf": 0,
+      "totalRwf": 3850000,
+      "notes": "",
+      "createdAt": "2026-10-16T10:54:23.022Z",
+      "updatedAt": "2026-10-16T10:54:23.022Z"
+    },
+    {
+      "id": "ord-301",
+      "orderNumber": "YLSN-ORD-5541",
+      "customerName": "Jean Paul Mugisha",
+      "customerPhone": "+250 788 654 321",
+      "customerEmail": "jp.mugisha@gmail.com",
+      "deliveryType": "delivery",
+      "deliveryAddress": "KG 14 Ave, Nyarutarama, Kigali",
+      "paymentMethod": "momo_rwanda",
+      "paymentStatus": "paid",
+      "orderStatus": "confirmed",
+      "items": [
+        {
+          "productId": "ylsn-mic-001",
+          "name": "Shure SLXD24D/SM58 Dual Wireless Vocal System",
+          "priceRwf": 2450000,
+          "quantity": 1,
+          "imageUrl": "https://images.unsplash.com/photo-1520523839898-507125cd53c1?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "productId": "ylsn-cbl-002",
+          "name": "Mogami 2534 Quad High-Definition Balanced XLR Cable (10m)",
+          "priceRwf": 95000,
+          "quantity": 2,
+          "imageUrl": "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?auto=format&fit=crop&w=900&q=80"
+        }
+      ],
+      "subtotalRwf": 2640000,
+      "deliveryFeeRwf": 15000,
+      "totalRwf": 2655000,
+      "notes": "Please test both wireless microphones before dispatch.",
+      "createdAt": "2026-10-15T16:45:00Z",
+      "updatedAt": "2026-10-15T17:10:00Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "req-101",
+      "requestNumber": "YLSN-SRV-2026-081",
+      "serviceType": "installation",
+      "clientName": "Kigali International Conference Center",
+      "clientPhone": "+250 788 123 456",
+      "clientEmail": "events@kicc-sample.rw",
+      "eventDate": "2026-11-05",
+      "eventLocation": "Gasabo District, Kigali",
+      "expectedAudience": "1,200 attendees",
+      "details": "Need permanent ceiling speaker array and digital matrix routing for auditorium room A and VIP lounge.",
+      "budgetRange": "RWF 8,000,000 - 12,000,000",
+      "status": "in_progress",
+      "adminNotes": "Site inspection completed on Tuesday. Preliminary acoustic map drafted.",
+      "createdAt": "2026-10-14T10:30:00Z"
+    },
+    {
+      "id": "req-102",
+      "requestNumber": "YLSN-SRV-2026-082",
+      "serviceType": "event_rental",
+      "clientName": "Alliance Creative Weddings",
+      "clientPhone": "+250 782 998 877",
+      "eventDate": "2026-10-25",
+      "eventLocation": "Rebero Terrace, Kigali",
+      "expectedAudience": "400 guests",
+      "details": "Full outdoor wedding sound: 2 x JBL SRX subwoofers, 4 x PRX tops, 4 wireless microphones, and DJ equipment.",
+      "budgetRange": "RWF 750,000 - 1,000,000",
+      "status": "scheduled",
+      "adminNotes": "Deposit confirmed. Delivery truck scheduled for 11:00 AM on the 25th.",
+      "createdAt": "2026-10-15T14:15:00Z"
+    }
+  ],
+  "quotations": [
+    {
+      "id": "quo-201",
+      "quoteNumber": "YLSN-QT-904",
+      "clientName": "Horizon Music Festival",
+      "clientPhone": "+250 785 432 109",
+      "eventType": "Concert & Music Festival",
+      "venueType": "Outdoor Open Stadium / Field",
+      "guestCount": "3,000 - 5,000 People",
+      "eventDate": "2026-12-18",
+      "requiredEquipment": [
+        "Line Array Sound System",
+        "High-Output Subwoofers",
+        "Digital Mixing Console",
+        "Stage Monitors",
+        "Wireless Mic Kits"
+      ],
+      "needSoundEngineer": true,
+      "estimatedBudgetRwf": 4500000,
+      "additionalNotes": "Need 2 front-of-house certified sound engineers for live multi-band festival.",
+      "status": "quote_sent",
+      "estimatedTotalRwf": 4200000,
+      "createdAt": "2026-10-15T09:00:00Z"
+    }
+  ]
+}
